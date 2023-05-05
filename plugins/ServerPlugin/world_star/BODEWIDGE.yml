@@ -1,0 +1,75 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"Obi-Wan''s Lightsaber"}'
+      enchants:
+        DURABILITY: 3
+      repair-cost: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 3
+      repair-cost: 1
+      Damage: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: ARROW
+    amount: 55
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: PORKCHOP
+    amount: 57
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

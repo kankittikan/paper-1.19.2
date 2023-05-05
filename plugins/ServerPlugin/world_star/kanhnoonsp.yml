@@ -1,0 +1,58 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: PORKCHOP
+    amount: 56
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: ARROW
+    amount: 4
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

@@ -1,0 +1,70 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: JUNGLE_LOG
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: WOODEN_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: BAMBOO
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: TORCH
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: GLASS_PANE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: JUNGLE_FENCE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: PODZOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: POPPY
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: VINE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: STRING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: TORCH
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

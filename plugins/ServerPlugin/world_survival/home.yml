@@ -1,0 +1,25 @@
+Description: Save home of player in world_survival
+kanhnoonsp:
+  ==: org.bukkit.Location
+  world: world_survival
+  x: 176.5935926732434
+  y: 88.36886932147881
+  z: -19.333364741574055
+  pitch: 21.000078
+  yaw: 89.400024
+rorgot:
+  ==: org.bukkit.Location
+  world: world_survival
+  x: 61.22144799975253
+  y: 84.0
+  z: -15.736487981997362
+  pitch: 37.64998
+  yaw: 160.5083
+Emma8956:
+  ==: org.bukkit.Location
+  world: world_survival
+  x: 66.3464750436731
+  y: 84.0
+  z: -9.902760898928177
+  pitch: 5.6998153
+  yaw: 124.4978

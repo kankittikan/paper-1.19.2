@@ -1,0 +1,11 @@
+spawn:
+  ==: org.bukkit.Location
+  world: world
+  x: 22.456934475363973
+  y: 33.0
+  z: 34.84767635549004
+  pitch: -27.89995
+  yaw: 5.2492065
+lobby-world: world
+performing_level: 1
+resource_pack: https://www.dropbox.com/s/0p6gy3fcw4dg812/Archive.zip?dl=1
