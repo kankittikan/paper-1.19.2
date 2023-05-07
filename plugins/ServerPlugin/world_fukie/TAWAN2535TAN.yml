@@ -1,0 +1,151 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"46
+        Gold Nuggets"}],"text":""}'
+      enchants:
+        PROTECTION_EXPLOSIONS: 3
+        PROTECTION_FIRE: 3
+        PROTECTION_PROJECTILE: 4
+        PROTECTION_ENVIRONMENTAL: 6
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 5
+      Damage: 45
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"46
+        Gold Nuggets"}],"text":""}'
+      enchants:
+        PROTECTION_EXPLOSIONS: 3
+        PROTECTION_FIRE: 3
+        PROTECTION_PROJECTILE: 4
+        PROTECTION_ENVIRONMENTAL: 6
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      Damage: 18
+      blockMaterial: SHIELD

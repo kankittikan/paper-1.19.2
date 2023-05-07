@@ -1,0 +1,65 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: WHITE_WOOL
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: DIAMOND_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 68
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: SNOWBALL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: SNOWBALL
+    amount: 14
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: GRAY_CONCRETE
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

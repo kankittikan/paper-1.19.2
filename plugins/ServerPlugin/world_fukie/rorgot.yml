@@ -5,43 +5,13 @@ inventory:
   - null
   - null
   content:
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: ACACIA_TRAPDOOR
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: WHITE_BED
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: BROWN_BANNER
-    meta:
-      ==: ItemMeta
-      meta-type: BANNER
-      patterns:
-      - ==: Pattern
-        color: BLACK
-        pattern: ms
-      - ==: Pattern
-        color: BROWN
-        pattern: bo
-      - ==: Pattern
-        color: BLACK
-        pattern: cs
-      - ==: Pattern
-        color: BROWN
-        pattern: mc
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: JUNGLE_TRAPDOOR
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: STONE_BUTTON
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: NETHER_BRICK_STAIRS
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: IRON_BLOCK
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
   - null
   - null
   - null

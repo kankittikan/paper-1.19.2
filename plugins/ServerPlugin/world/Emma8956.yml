@@ -2,299 +2,77 @@ inventory:
   armor:
   - ==: org.bukkit.inventory.ItemStack
     v: 3120
-    type: CHAINMAIL_BOOTS
+    type: NETHERITE_BOOTS
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"22
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        DEPTH_STRIDER: 1
-        PROTECTION_FALL: 2
-        PROTECTION_ENVIRONMENTAL: 3
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: GOLDEN_LEGGINGS
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"14
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        PROTECTION_EXPLOSIONS: 1
-        PROTECTION_PROJECTILE: 1
-        PROTECTION_ENVIRONMENTAL: 1
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: IRON_CHESTPLATE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"38
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        PROTECTION_FIRE: 2
-        PROTECTION_PROJECTILE: 2
-        PROTECTION_ENVIRONMENTAL: 3
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: IRON_HELMET
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"31
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        PROTECTION_EXPLOSIONS: 2
-        PROTECTION_PROJECTILE: 3
-        PROTECTION_ENVIRONMENTAL: 5
-        OXYGEN: 1
-      Unbreakable: true
+      Damage: 2
+  - null
+  - null
+  - null
   content:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
   - ==: org.bukkit.inventory.ItemStack
     v: 3120
-    type: WOODEN_SWORD
+    type: NETHERITE_HELMET
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      enchants:
-        DURABILITY: 3
-      Damage: 41
+      Damage: 2
   - ==: org.bukkit.inventory.ItemStack
     v: 3120
-    type: BOW
+    type: NETHERITE_CHESTPLATE
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"text":"ศรศักดิ์สิทธิ์"}],"text":""}'
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"46
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        ARROW_FIRE: 1
-        ARROW_INFINITE: 1
-        ARROW_DAMAGE: 3
-        ARROW_KNOCKBACK: 2
-      attribute-modifiers:
-        GENERIC_MOVEMENT_SPEED:
-        - ==: org.bukkit.attribute.AttributeModifier
-          amount: -0.05
-          name: ''
-          slot: HAND
-          uuid: 19f924ab-04a4-4523-86dd-cc98cfa7f007
-          operation: 0
-        GENERIC_MAX_HEALTH:
-        - ==: org.bukkit.attribute.AttributeModifier
-          amount: -2.0
-          name: ''
-          slot: HAND
-          uuid: f5e4fa86-ec0e-4825-86f5-9a64a5f87db1
-          operation: 0
-      Damage: 99
+      Damage: 2
   - ==: org.bukkit.inventory.ItemStack
     v: 3120
-    type: COOKED_BEEF
-    amount: 46
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: STONE_SWORD
+    type: NETHERITE_LEGGINGS
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"8
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        KNOCKBACK: 2
-      Damage: 46
+      Damage: 2
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
   - ==: org.bukkit.inventory.ItemStack
     v: 3120
-    type: GOLD_NUGGET
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: ARROW
-    amount: 60
+    type: NETHERITE_BOOTS
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"1
-        Gold Nuggets"}],"text":""}'
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: ARROW
-    amount: 64
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"1
-        Gold Nuggets"}],"text":""}'
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: ARROW
-    amount: 13
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: ARROW
-    amount: 61
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"1
-        Gold Nuggets"}],"text":""}'
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: GOLDEN_CHESTPLATE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"17
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        PROTECTION_EXPLOSIONS: 1
-        PROTECTION_FIRE: 1
-        PROTECTION_PROJECTILE: 2
-        PROTECTION_ENVIRONMENTAL: 2
-      Unbreakable: true
+      Damage: 2
   - null
   - null
   - null
   - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: LEATHER_BOOTS
-    meta:
-      ==: ItemMeta
-      meta-type: LEATHER_ARMOR
-      enchants:
-        PROTECTION_ENVIRONMENTAL: 1
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: LEATHER_HELMET
-    meta:
-      ==: ItemMeta
-      meta-type: LEATHER_ARMOR
-      enchants:
-        PROTECTION_ENVIRONMENTAL: 1
-      Unbreakable: true
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: LEATHER_LEGGINGS
-    meta:
-      ==: ItemMeta
-      meta-type: LEATHER_ARMOR
-      enchants:
-        PROTECTION_ENVIRONMENTAL: 1
-      Unbreakable: true
-  - null
-  - null
-  - null
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: BOW
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 139
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: LEATHER_CHESTPLATE
-    meta:
-      ==: ItemMeta
-      meta-type: LEATHER_ARMOR
-      enchants:
-        PROTECTION_ENVIRONMENTAL: 1
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: CHAINMAIL_BOOTS
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"22
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        DEPTH_STRIDER: 1
-        PROTECTION_FALL: 2
-        PROTECTION_ENVIRONMENTAL: 3
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: GOLDEN_LEGGINGS
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"14
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        PROTECTION_EXPLOSIONS: 1
-        PROTECTION_PROJECTILE: 1
-        PROTECTION_ENVIRONMENTAL: 1
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: IRON_CHESTPLATE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"38
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        PROTECTION_FIRE: 2
-        PROTECTION_PROJECTILE: 2
-        PROTECTION_ENVIRONMENTAL: 3
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: IRON_HELMET
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"31
-        Gold Nuggets"}],"text":""}'
-      enchants:
-        PROTECTION_EXPLOSIONS: 2
-        PROTECTION_PROJECTILE: 3
-        PROTECTION_ENVIRONMENTAL: 5
-        OXYGEN: 1
-      Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3120
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"13
-        Gold Nuggets"}],"text":""}'
-      blockMaterial: SHIELD

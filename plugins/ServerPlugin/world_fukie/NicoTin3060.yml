@@ -1,0 +1,56 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  content:
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: SNOWBALL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: FIREWORK_ROCKET
+    amount: 64
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: ARROW
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

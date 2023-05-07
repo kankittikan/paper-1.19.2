@@ -1,10 +1,86 @@
 inventory:
   armor:
-  - null
-  - null
-  - null
-  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
   content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 5
+      Damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: ARROW
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
   - null
   - null
   - null
@@ -13,38 +89,30 @@ inventory:
   - null
   - ==: org.bukkit.inventory.ItemStack
     v: 3120
-    type: NETHER_GOLD_ORE
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      Unbreakable: true
   - null

@@ -1,0 +1,173 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: COOKED_BEEF
+    amount: 63
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: ARROW
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: GOLD_NUGGET
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      display-name: '{"extra":[{"text":"กระสุนแตก"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"18
+        Gold Nuggets"}],"text":""}'
+      enchants:
+        KNOCKBACK: 3
+        MULTISHOT: 1
+        PIERCING: 4
+        QUICK_CHARGE: 4
+        DAMAGE_ALL: 3
+      charged: false
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: TIPPED_ARROW
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: '{"extra":[{"text":"Arrow of Healing II"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"4
+        Gold Nuggets"}],"text":""}'
+      custom-color:
+        ==: Color
+        RED: 255
+        BLUE: 0
+        GREEN: 0
+      custom-effects:
+      - ==: PotionEffect
+        effect: 6
+        duration: 1
+        amplifier: 1
+        ambient: true
+        has-particles: true
+        has-icon: true
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Unbreakable: true
+  - null
